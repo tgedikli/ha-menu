@@ -21,7 +21,7 @@
     "dist": "electron-builder"
   },
   "devDependencies": {
-    "electron": "^15.3.0",
+    "electron": "^15.5.5",
     "electron-builder": "^22.13.1",
     "eslint": "^7.12.1",
     "eslint-config-standard": "^16.0.3",
